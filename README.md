@@ -1,4 +1,5 @@
-AI Recipe Generator
+# AI Recipe Generator
+
 A Streamlit-based web application powered by Gemini AI to create personalized recipes tailored to your preferences, dietary needs, and available ingredients.
 Overview
 The AI Recipe Generator is an innovative tool designed for home cooks, food enthusiasts, and anyone looking to explore new recipes. Whether you want a recipe for a specific dish, need to use ingredients you have on hand, or prefer dishes that align with dietary restrictions or regional cuisines, this app delivers. With a sleek, modern interface, it offers interactive cooking steps, visual aids, shopping lists, and curated recipe suggestions based on seasons and cuisines.
